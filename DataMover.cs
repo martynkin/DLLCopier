@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace DllCopier
 {
 //qwqwq
-//qwqwq
+
 //qwqwq
 //qwqwq
 //коммент
