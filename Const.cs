@@ -9,6 +9,12 @@ namespace DllCopier
 ///asdsadasdasdasdasdasdasasdasdasdasasdasdasdasasdasdasdasasdasdasdas
 ///asdsadasdasd
 //changes for ubuntu
+//changes for ubuntu
+//changes for ubuntu
+//changes for ubuntu
+//changes for ubuntu
+//changes for ubuntu
+//changes for ubuntu
 
     static class Const
     {
