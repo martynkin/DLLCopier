@@ -9,6 +9,12 @@ using System.ComponentModel;
 using System.Windows.Forms;
 
 //other string
+//выаыва
+//ываыва
+//ываавыавыа
+//ываываыва
+//ываываыва
+//выаывавы
 namespace DllCopier
 {
     class DllManager
