@@ -9,9 +9,7 @@ namespace DllCopier
 //qwqwq
 
 //qwqwq
-//qwqwq
-//коммент
-//коммент
+
 //коммент
     class DataMover
     {
