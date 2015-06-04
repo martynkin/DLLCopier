@@ -15,6 +15,10 @@ using System.Windows.Forms;
 //ываываыва
 //ываываыва
 //выаывавы
+asdasdasd
+asdasdasdas
+asdasdasda
+asdasdas
 namespace DllCopier
 {
     class DllManager
