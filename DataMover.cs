@@ -9,10 +9,7 @@ namespace DllCopier
 //qwqwq
 asdasdasdasdasdasdasd
 
-
-    class DataMover
-    {
-        public FileCopier fileCopier;
+asdasdasdasdasdileCopier fileCopier;
         public List<string> DestPathes;
         public Dictionary<int, List<string>> DllNames;
         public string DllFolder;
