@@ -7,21 +7,7 @@ using System.Threading.Tasks;
 namespace DllCopier
 {
 
-//sdfsdfsdfsdfsdfsdfsdfsdf
-///asdsadasdasdasdasdasdasasdasdasdasasdasdasdasasdasdasdasasdasdasdas
-//sdfsdfsdfsdfsdfsdfsdfsdf
-///asdsadasdasdasdasdasdasasdasdasdasasdasdasdasasdasdasdasasdasdasdas
-//sdfsdfsdfsdfsdfsdfsdfsdf
-///asdsadasdasdasdasdasdasasdasdasdasasdasdasdasasdasdasdasasdasdasdas
-//sdfsdfsdfsdfsdfsdfsdfsdf
-///asdsadasdasdasdasdasdasasdasdasdasasdasdasdasasdasdasdasasdasdasdas
-//sdfsdfsdfsdfsdfsdfsdfsdf
-///asdsadasdasdasdasdasdasasdasdasdasasdasdasdasasdasdasdasasdasdasdas
-//sdfsdfsdfsdfsdfsdfsdfsdf
-///asdsadasdasdasdasdasdasasdasdasdasasdasdasdasasdasdasdasasdasdasdas
-//sdfsdfsdfsdfsdfsdfsdfsdf
-///asdsadasdasdasdasdasdasasdasdasdasasdasdasdasasdasdasdasasdasdasdas
-//sdfsdfsdfsdfsdfsdfsdfsdf
+
 ///asdsadasdasdasdasdasdasasdasdasdasasdasdasdasasdasdasdasasdasdasdas
 //sdfsdfsdfsdfsdfsdfsdfsdf
 ///asdsadasdasdasdasdasdasasdasdasdasasdasdasdasasdasdasdasasdasdasdas
