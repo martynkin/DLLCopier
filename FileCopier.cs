@@ -7,6 +7,13 @@ using System.IO;
 
 namespace DllCopier
 {
+    ///
+    ///
+    ///
+    ///
+    ///
+    ///
+    ///
     public enum FileActionsType : int
     {
         faCopy = 1,
