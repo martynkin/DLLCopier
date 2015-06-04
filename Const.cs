@@ -8,15 +8,7 @@ namespace DllCopier
 {
 ///asdsadasdasdasdasdasdasasdasdasdasasdasdasdasasdasdasdasasdasdasdas
 //sdfsdfsdfsdfsdfsdfsdfsdf
-//sdfsfsdffddddddddddddddddddddddddddddddffffffffffffffff
-//sdfsdfsdfsdfsdfsdfsdfsdfsdfasfasdfsdfsdf
-sdfdfdsf
-sdf
-dsf
-sdf
-sdf
-sdfsdf
-sdfsdf
+
 
     static class Const
     {
