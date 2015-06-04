@@ -8,12 +8,7 @@ namespace DllCopier
 {
 //qwqwq
 //sdsdfsdfsdfsdf
-sd///sdf
-sdf
-asdasdasd
-asdasdasd
-asdasdasd
-sdasdasd
+
 
     class DataMover
     {
