@@ -9,8 +9,7 @@ namespace DllCopier
 //qwqwq
 
 //qwqwq
-
-//коммент
+//asdasdasdasdasdasdsadasdasd
     class DataMover
     {
         public FileCopier fileCopier;
