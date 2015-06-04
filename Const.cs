@@ -7,8 +7,7 @@ using System.Threading.Tasks;
 namespace DllCopier
 {
 adasdasdasd
-adasdasdas
-asdasdasdas
+
     static class Const
     {
         public static readonly string[] XE8x32 = { "XE8", "32", "rtl220.bpl", "CC32160MT.dll", "Borlndmm.dll" };
