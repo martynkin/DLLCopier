@@ -6,11 +6,6 @@ using System.Threading.Tasks;
 
 namespace DllCopier
 {
-//qwqwq
-//asdasdasdasdasdasdasd
-//asdasdasdasdasdasdasd
-//asdasdasdasdasdasdasd
-//asdasdasdasdasdasdasd
 
 asdasdasdasdasdileCopier fileCopier;
         public List<string> DestPathes;
