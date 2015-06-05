@@ -8,17 +8,6 @@ using System.Threading;
 using System.ComponentModel;
 using System.Windows.Forms;
 
-//other string
-//выаыва
-//ываыва
-//ываавыавыа
-//ываываыва
-//ываываыва
-//выаывавы
-asdasdasd
-asdasdasdas
-asdasdasda
-asdasdas
 namespace DllCopier
 {
     class DllManager
