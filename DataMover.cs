@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace DllCopier
 {
-
+//
+//
+//
 asdasdasdasdasdileCopier fileCopier;
         public List<string> DestPathes;
         public Dictionary<int, List<string>> DllNames;
