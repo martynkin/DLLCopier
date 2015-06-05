@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DllCopier
 {
-/sdfsdf/sdfsdfs/sdfsdfsdf/sdfsdfsdf/sdfsdfsdf/sdfsdfsdf
+
 asdasdasdasdasdileCopier fileCopier;
         public List<string> DestPathes;
         public Dictionary<int, List<string>> DllNames;
