@@ -10,15 +10,7 @@ using System.Windows.Forms;
 
 namespace DllCopier
 {
-    sdsd
-    sdsdsd
-    sdsd
-    sd
-    d
-    d
-    d
-    d
-    d
+    
     class DllManager
     {
         public Dictionary<int, List<string>> SelectDll(string[] IDEconst)
