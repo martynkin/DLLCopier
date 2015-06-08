@@ -9,6 +9,10 @@ namespace DllCopier
 //
 .,/.,/.,
 ,./.ppl;;l;l;l;l
+klk;kl
+l;;l;l
+l;l;ll;l;l
+ioioioioi
     static class Const
     {
         public static readonly string[] XE8x32 = { "XE8", "32", "rtl220.bpl", "CC32160MT.dll", "Borlndmm.dll" };
