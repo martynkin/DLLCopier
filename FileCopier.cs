@@ -8,6 +8,12 @@ using System.IO;
 namespace DllCopier
 {
 jmhjmhmjhn
+weweweewre
+wewerwerwerwer
+werwer
+werwe
+
+werwerwer
     public enum FileActionsType : int
     {
         faCopy = 1,
