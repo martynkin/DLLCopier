@@ -7,12 +7,6 @@ using System.Threading.Tasks;
 namespace DllCopier
 {
 
-asasas
-asass
-asasas
-asasasdadasd
-asdasdasdasdasd
-ileCopier fileCopier;
         public List<string> DestPathes;
         public Dictionary<int, List<string>> DllNames;
         public string DllFolder;
