@@ -11,13 +11,7 @@ using System.Windows.Forms;
 namespace DllCopier
 {
    //sadasdasdasdasdsadыфвфывфывфыв 
-   asdasda
-   asdasd
-   asd
-   asd
-   asd
-   sad
-   sad
+
     class DllManager
     {
         public Dictionary<int, List<string>> SelectDll(string[] IDEconst)
