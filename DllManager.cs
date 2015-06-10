@@ -11,6 +11,8 @@ using System.Windows.Forms;
 namespace DllCopier
 {
    //sadasdasdasdasdsadыфвфывфывфыв 
+   //sadasdasdasdasdsadыфвфывфывфыв 
+   //sadasdasdasdasdsadыфвфывфывфыв 
 
     class DllManager
     {
