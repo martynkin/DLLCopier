@@ -10,10 +10,10 @@ using System.Windows.Forms;
 
 namespace DllCopier
 {
-master
-master
-master
-master
+master1
+master1
+master1
+master1
     class DllManager
     {
 
