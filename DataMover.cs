@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace DllCopier
 {
-//qwqwq
-    class DataMover
-    {
-        public FileCopier fileCopier;
+        dffdvdfvdfv
+        sdfsdfsdf
+        sdfsdfsdfsdfsdf
+        sdfdsfdfsdf
+        sdfsdfsdfsdf
+
         public List<string> DestPathes;
         public Dictionary<int, List<string>> DllNames;
         public string DllFolder;

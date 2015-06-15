@@ -8,11 +8,16 @@ using System.Threading;
 using System.ComponentModel;
 using System.Windows.Forms;
 
-//other string
 namespace DllCopier
 {
     class DllManager
     {
+ererterrwerwerwerwe
+werwerwerwerwerwerwer
+werwerwerwerwerwer
+werwerwerwerwerwer
+werwerwerwererwreer
+werwererwerrewrwerwe
         public Dictionary<int, List<string>> SelectDll(string[] IDEconst)
         {
             Dictionary<int, List<string>> SeletedDll = new Dictionary<int, List<string>>();

@@ -6,11 +6,16 @@ using System.Threading.Tasks;
 
 namespace DllCopier
 {
-///asdsadasdasdasdasdasdasasdasdasdasasdasdasdasasdasdasdasasdasdasdas
-///asdsadasdasd
-
     static class Const
     {
+        sdfsdf
+        sdfsdf
+        sdfsdf
+        sdfsdf
+        sdfsdf
+        sdfsdf
+        sdfsdf
+        sdfsdf
         public static readonly string[] XE8x32 = { "XE8", "32", "rtl220.bpl", "CC32160MT.dll", "Borlndmm.dll" };
         public static readonly string[] XE7x32 = { "XE7", "32", "rtl210.bpl", "CC32160MT.dll", "Borlndmm.dll" };
         public static readonly string[] XE6x32 = { "XE6", "32", "rtl200.bpl", "CC32150MT.dll", "Borlndmm.dll" };
