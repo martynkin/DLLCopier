@@ -1,8 +1,18 @@
 qweqweqweqweqweqweqweqwe
 kljkljklj
+<<<<<<< HEAD
 dasdasdasdasdasd
 asdas
 dasdasdasda
 asdasd
 asdasdasdasd
 asdasdasd
+=======
+ыввыавыаывавыаваы
+ываавывыаавы
+ывавывыаываываывав
+ываываываываываыва
+ываываыаывававав
+ываывавыавыавыаыва
+
+>>>>>>> 0d73f650d0bdb286a1c2c90f7fd3e0833ad35a75
