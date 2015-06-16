@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace DllCopier
 {
-master4
-master4
-master4
-master4
+master5
+master5
+master5
+master5
 
         public List<string> DestPathes;
         public Dictionary<int, List<string>> DllNames;

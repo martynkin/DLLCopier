@@ -7,10 +7,10 @@ using System.IO;
 
 namespace DllCopier
 {
-master1
-master1
-master1
-master1
+master5
+master5
+master5
+master5
     public enum FileActionsType : int
     {
         faCopy = 1,
