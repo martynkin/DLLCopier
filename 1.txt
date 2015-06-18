@@ -3,6 +3,7 @@ content content
 content content
 content content
 content content
+<<<<<<< HEAD
 content content
 content content
 content content
@@ -10,3 +11,12 @@ content content
 content content
 werewrwerwerwer
 ewrwererewrwer
+=======
+asasdasdasdsd
+as
+dasdasdasd
+asdasdsad
+asdasdasd
+asdasdsad
+asdasdsadasd
+>>>>>>> b2
