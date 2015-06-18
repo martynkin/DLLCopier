@@ -8,7 +8,7 @@ namespace DllCopier
 {
 master7
 master7asdasdasdasdd
-master7
+master7e
 master7
     static class Const
     {
