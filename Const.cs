@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace DllCopier
 {
 master7
-master7
+master7asdasdasdasdd
 master7
 master7
     static class Const
