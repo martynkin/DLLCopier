@@ -10,10 +10,9 @@ using System.Windows.Forms;
 
 namespace DllCopier
 {
+
 master6
-master6
-master6
-master6
+
     class DllManager
     {
 
