@@ -8,7 +8,19 @@ namespace DllCopier
 {
 
 master6sasasdasdasd
-
+ы
+ы
+ы
+ы
+ы
+ы
+ы
+ы
+ы
+ы
+ы
+ы
+ы
 
         public List<string> DestPathes;
         public Dictionary<int, List<string>> DllNames;
