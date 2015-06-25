@@ -9,6 +9,9 @@ namespace DllCopier
 {
 
 master6
+master6
+master6
+master6master6
 
     public enum FileActionsType : int
     {
