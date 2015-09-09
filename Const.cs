@@ -10,18 +10,6 @@ namespace DllCopier
 master7
 asdasdasdasd
 asdasd
-s
-s
-s
-s
-s
-s
-s
-e
-e
-e
-e
-e
     static class Const
     {
         
