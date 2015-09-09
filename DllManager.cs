@@ -11,8 +11,6 @@ using System.Windows.Forms;
 namespace DllCopier
 {
 
-master6
-
     class DllManager
     {
 
