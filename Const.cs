@@ -8,9 +8,15 @@ namespace DllCopier
 {
 
 master7
-we
-e
-e
+asdasdasdasd
+asdasd
+s
+s
+s
+s
+s
+s
+s
 e
 e
 e
