@@ -1,1 +1,2 @@
 master
+One more string
