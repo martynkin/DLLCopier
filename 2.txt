@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-s1
-dsfsdfsdf
-=======
-m1
->>>>>>> master
+sdfsdfsdfsdfsdfsdfsf
