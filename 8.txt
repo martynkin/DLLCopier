@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 master
 One more string
+=======
+dfgdfgdfgdfg
+>>>>>>> master
