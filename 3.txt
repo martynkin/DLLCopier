@@ -1,1 +1,1 @@
-string1 on master
+new string
