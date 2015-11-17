@@ -1,2 +1,1 @@
-string for both
-
+string on br1
