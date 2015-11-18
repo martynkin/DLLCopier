@@ -1,2 +1,1 @@
-resolved
-er
+string in master
