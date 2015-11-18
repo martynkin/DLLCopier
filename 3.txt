@@ -1,1 +1,1 @@
-resolved
+string in master
