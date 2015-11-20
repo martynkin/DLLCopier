@@ -1,1 +1,1 @@
-string br1
+result string
