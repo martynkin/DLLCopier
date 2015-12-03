@@ -1,0 +1,1215 @@
+[33mcommit 3c12b384c431a01eb11e44e7c7e87fdb64e23919[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Nov 11 16:57:35 2015 +0300
+
+    vvf
+
+[33mcommit 023212946a86a4f62a7e3c4dcdc623b8fd6d0ea9[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Nov 11 16:54:33 2015 +0300
+
+    m
+
+[33mcommit 25b1c76da5abb9bfc5ff1166056907d80c96b9e7[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Nov 11 14:35:50 2015 +0300
+
+    Update 5.txt
+
+[33mcommit 5dff6d0e846e3a32b8c694772da850656577865b[m
+Merge: 4fdf181 d8d539b
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Nov 11 14:34:59 2015 +0300
+
+    Merge pull request #67 from martynkin/b-r
+    
+    Update 8.txt
+
+[33mcommit 4fdf181c37fd6379fdd96d8ce02c4925b5b820c0[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Nov 11 14:33:28 2015 +0300
+
+    Update 7.txt
+
+[33mcommit d8d539bf00b9c5127aca6cd9480b4c329db883b6[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Nov 11 14:32:59 2015 +0300
+
+    Update 8.txt
+
+[33mcommit 501d21262d56ecdf64ba207f524fae958bb3f1bb[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Nov 11 14:31:20 2015 +0300
+
+    Update 6.txt
+
+[33mcommit 31159a26415391edb068ba3c27c86cc7fbd31bb7[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Nov 11 14:29:29 2015 +0300
+
+    Update 3.txt
+
+[33mcommit cdfeb3759c06478c1da95683103a15e3fa18cdd1[m
+Merge: 059235a 1d23aef
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Nov 11 14:28:43 2015 +0300
+
+    Merge pull request #66 from martynkin/br1
+    
+    Update 3.txt
+
+[33mcommit 059235aa66ce80e417a195cc319efe9204c58db4[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Nov 11 14:03:01 2015 +0300
+
+    Update 5.txt
+
+[33mcommit 3558c4afa3c5428857be0ddf4839dbf4d3a57acd[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Nov 11 13:01:37 2015 +0300
+
+    Update 4.txt
+
+[33mcommit 1d23aef21d459b590ddc4b61f7d9791631c43ffc[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Nov 11 13:00:03 2015 +0300
+
+    Update 3.txt
+
+[33mcommit def0fbf27bc17dfa1f2f53e207b65945958712f8[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 29 12:28:04 2015 +0300
+
+    commit from TC
+
+[33mcommit 0c87fc80805790b1fe5f32a202104d250f5814af[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 29 12:27:24 2015 +0300
+
+    commit from TC
+
+[33mcommit 863e5ccd7c847748e3f56fa5aec4d285c1a6cca8[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 29 12:26:46 2015 +0300
+
+    commit from TC
+
+[33mcommit 97e69d3beceec9c31b6eacd176b0a328f175e582[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 29 12:26:15 2015 +0300
+
+    commit from TC
+
+[33mcommit e34c9d3b8424812df4a7a742ee2e6ab79403a76e[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 29 12:21:15 2015 +0300
+
+    commit from TC
+
+[33mcommit f77c312225f5f3b3e7186a2329eed4ff32dc6de6[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 29 12:14:48 2015 +0300
+
+    d
+
+[33mcommit b42eedcd6e70c87fa7e3f2b73ff96243ab5493d5[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 29 12:11:37 2015 +0300
+
+    commit from TC
+
+[33mcommit 207523e23e69644b6c25191a24ed8e80b4ea8f19[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 29 12:06:30 2015 +0300
+
+    commit from TC
+
+[33mcommit 96cd53b4e49b779c313d36d52ae06c0b05adb0fd[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 29 11:59:26 2015 +0300
+
+    d
+
+[33mcommit 7b4f76ceacb7a806e64351c6f2389b637d06eb5b[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 29 11:56:19 2015 +0300
+
+    d
+
+[33mcommit d82030efb0680926e21955538347d17f247548c1[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Oct 28 16:56:20 2015 +0300
+
+    commit from TC
+
+[33mcommit f128617eda5b24afaff83d754031b86c7626c40e[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Oct 28 16:55:45 2015 +0300
+
+    commit from TC
+
+[33mcommit b49883fd0c57c13310eacfcef3514b128b27e3af[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Oct 23 18:02:21 2015 +0300
+
+    s
+
+[33mcommit b4630b3837edc1962d6b570a5792b37698a98e1d[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Oct 23 18:01:08 2015 +0300
+
+    s
+
+[33mcommit 06e75b0e51f0a12bec48057c0e52f9487b874cf4[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Oct 23 17:59:51 2015 +0300
+
+    s
+
+[33mcommit d55f899e73f02e2df77de7dd009a4402f409c60c[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 22 14:31:35 2015 +0300
+
+    commit from TC
+
+[33mcommit 815f29a9f4dbc9af3caccc2ac82d389f2b984c58[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 22 14:31:00 2015 +0300
+
+    commit from TC
+
+[33mcommit 00b48e755720abdba50b87111fca62dd8c872de7[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 22 14:30:25 2015 +0300
+
+    commit from TC
+
+[33mcommit 467ef7e2bec100129c30d7e426f85998286d9c39[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 22 14:29:56 2015 +0300
+
+    commit from TC
+
+[33mcommit 0b901f93e2fd0629d2c0d202f048b0838a07165f[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 22 14:21:26 2015 +0300
+
+    commit from TC
+
+[33mcommit fd806c730165c5789add00a7a934d2d02d02a048[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 22 14:20:51 2015 +0300
+
+    commit from TC
+
+[33mcommit a2f4ec67eb58f4250c8d91083e3d9d89c06fe0e8[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 22 14:20:22 2015 +0300
+
+    commit from TC
+
+[33mcommit e46136e5d831e836784056a63cae646b8b0cd1b5[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 22 14:17:18 2015 +0300
+
+    commit from TC
+
+[33mcommit 8b9d3bb6857acc7a802c579c5b85d30bb4b00e2f[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 22 14:16:44 2015 +0300
+
+    commit from TC
+
+[33mcommit d027d6af83fcd8e01d6fe11d04493e52d6ed624a[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 22 12:12:09 2015 +0300
+
+    commit from TC
+
+[33mcommit ae37b0a9f2e1d87908feb3ed482792ef4c77fd5b[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 22 12:04:09 2015 +0300
+
+    commit from TC
+
+[33mcommit 70fb65fa4c829b39a46e3ff319ba0b698f0a3b49[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Oct 21 15:38:16 2015 +0300
+
+    s
+
+[33mcommit a86f6d39bb7c0a3b961e4842ef18aa9261647db2[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Oct 21 15:07:40 2015 +0300
+
+    d
+
+[33mcommit 9951860a5dc0689a586dbd655dcf5890d2f93448[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Oct 21 14:56:09 2015 +0300
+
+    d
+
+[33mcommit a692de4b95928a89de589c97c5789ea5916f218c[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Oct 21 14:51:21 2015 +0300
+
+    s
+
+[33mcommit 77913646c37dea37755e261e790d19e1e2aa045a[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Oct 21 10:03:17 2015 +0300
+
+    s
+
+[33mcommit cccd0fe5e0e1d2e8e5e81705e404bb16a954b8d7[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Oct 19 15:28:57 2015 +0300
+
+    comment
+
+[33mcommit 8534e5fe9cee88ae6dfb4b29b10b631b7bcaa2dd[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Oct 19 15:22:28 2015 +0300
+
+    d
+
+[33mcommit 07bbe20c0b309b4709e267b6943d1eed1970f17c[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Oct 19 13:12:05 2015 +0300
+
+    commit from TC
+
+[33mcommit cd4f1dc0d86d421ca1edcd5559134362e85970d9[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Oct 19 12:55:55 2015 +0300
+
+    d
+
+[33mcommit 056a8cb556a09b39718a05b9db094f9707eb9f76[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Oct 19 12:51:26 2015 +0300
+
+    d
+
+[33mcommit 049f964028ef4ee21bd0175ec156fe340a76cbda[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Oct 19 12:49:19 2015 +0300
+
+    d
+
+[33mcommit b3be65d94ec97a93b0ba72494f31028fc355bea8[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Oct 19 12:44:01 2015 +0300
+
+    d
+
+[33mcommit 18cb9f7d148cfb87ed9e4d643752a8c3f9a8429d[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Oct 16 15:32:42 2015 +0300
+
+    commit from TC
+
+[33mcommit 003e9e545dbf183c8a86e26b33ef4a75715fedf6[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Oct 16 15:31:27 2015 +0300
+
+    c
+
+[33mcommit 64d408ede11daef5801cfee8bad8b731f0bf41a2[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Oct 16 15:25:07 2015 +0300
+
+    c
+
+[33mcommit 0a529cfe538cb07520f500d51402adddaf5eb315[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Oct 16 15:23:23 2015 +0300
+
+    c
+
+[33mcommit 23eb6a53e9cadbd797a7e931e0ec5050a0ab97e1[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Oct 16 12:04:46 2015 +0300
+
+    c
+
+[33mcommit 2fe06faa6f65c833c3be12d57c9d462b2fc25168[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Oct 16 12:04:11 2015 +0300
+
+    c
+
+[33mcommit 9ee061919372c52feea2656d13eb031a51cee846[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Oct 16 11:53:08 2015 +0300
+
+    c
+
+[33mcommit 50aecf22572462b6b29d3e1c8364056379a96180[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Oct 16 11:51:02 2015 +0300
+
+    c
+
+[33mcommit 646d999cab9eb3569f879e5120471840f8c70551[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Oct 16 11:48:17 2015 +0300
+
+    c
+
+[33mcommit d3034e9ad332f5d1dcd565c485649b98b00d30a7[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Oct 16 10:40:14 2015 +0300
+
+    c
+
+[33mcommit e9a7ffe00b1d9f5b06368a7195cf2d16f68f58b3[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 15 15:46:07 2015 +0300
+
+    c
+
+[33mcommit 4f00d11a391a2f144d48f22cfa069314043c30bf[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 15 15:35:55 2015 +0300
+
+    e
+
+[33mcommit 8532215193625a754b25d8be33d1d85978807949[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Oct 7 10:52:48 2015 +0300
+
+    df
+
+[33mcommit 0c1df8df84dab6004dfa36dd2fea53803d6ba84a[m
+Merge: 48cf8da 7b6e162
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Oct 7 10:49:52 2015 +0300
+
+    Merge branch 'master' of https://github.com/martynkin/DLLCopier
+    
+    Conflicts:
+    	2.txt
+    e
+
+[33mcommit 7b6e16274a067822536a1660b7c4baf7062ad2cc[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Oct 6 17:39:10 2015 +0300
+
+    Update 2.txt
+
+[33mcommit 48cf8daec4463b7b76e65bdec17bbd734e868a3b[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Oct 6 17:25:23 2015 +0300
+
+    e
+
+[33mcommit 82c141125391231a58b98f8233270f5eee800211[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Oct 6 17:20:21 2015 +0300
+
+    2.txt
+
+[33mcommit 49b0766dac921fd45b5cd3eecd457cb28312191f[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Oct 2 10:23:15 2015 +0300
+
+    Update 5.txt
+
+[33mcommit abb50a41b46231a0fc46182c5dbad667df8c8997[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 1 15:16:26 2015 +0300
+
+    Update 7.txt
+
+[33mcommit 8ae355d7c25393edcbdb4d85b6633c7cc86dad9b[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 1 10:51:01 2015 +0300
+
+    Update 6.txt
+
+[33mcommit 40df10c72d6b79db26087d781b838762348f24b0[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Thu Oct 1 10:26:55 2015 +0300
+
+    Update Const.cs
+
+[33mcommit 6c67d7ee00a1408595329461ffeb1966dc7f3cba[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Sep 30 18:51:34 2015 +0300
+
+    Update 8.txt
+
+[33mcommit f762bf94540bb2397d14990f6db068210e8d3ff8[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Sep 30 16:46:36 2015 +0300
+
+    Update 7.txt
+
+[33mcommit 84e4db6923b05ba662e6fe13255b6c154e4d6178[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Sep 30 16:44:28 2015 +0300
+
+    Update 6.txt
+
+[33mcommit d8dbb03f7fd325ec2edc58e0816bb14cd11d053e[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Sep 30 16:38:22 2015 +0300
+
+    Update 5.txt
+
+[33mcommit 597a375d875c387c1f073ac737aadb88369c228b[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Sep 30 16:31:49 2015 +0300
+
+    Update 4.txt
+
+[33mcommit 34ba9d40710335ed96d8db0c0b0011be0e95ef09[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Sep 30 16:28:49 2015 +0300
+
+    Update 3.txt
+
+[33mcommit e6374da434b28336170d4fd3b4dacf857e21dfab[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Sep 30 16:26:41 2015 +0300
+
+    Update 2.txt
+
+[33mcommit 5a0cdc26786f222203534629352e64a36e42b880[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Sep 30 14:21:51 2015 +0300
+
+    Update 4.txt
+
+[33mcommit 1131655595f6c282d17e3363b3b399979acf3402[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Sep 30 14:20:52 2015 +0300
+
+    Update 4.txt
+
+[33mcommit 312f285ef2fc29828a3012a7121955f386498749[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Sep 30 14:19:41 2015 +0300
+
+    Update 2.txt
+
+[33mcommit 23a639449d3342e45b93cf2dc3c158860db359ef[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Sep 30 14:18:38 2015 +0300
+
+    Update 5.txt
+
+[33mcommit 337a42f85a4bdb0bb0ae9cb55feee646548f6186[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Sep 30 14:16:50 2015 +0300
+
+    Update 8.txt
+
+[33mcommit aee6d810170d51e0ff3177c9f1b86f68001d1af2[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Wed Sep 30 14:12:41 2015 +0300
+
+    Update 2.txt
+
+[33mcommit b7eff68fd4f04c6e9e41a1981e94d665a725a477[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Sep 29 17:55:19 2015 +0300
+
+    Update 5.txt
+
+[33mcommit ce6ad33a1381d064edb26b17a409b5748be39ccd[m
+Merge: 1f7ffed 79d14dc
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Sep 29 17:55:06 2015 +0300
+
+    Merge pull request #62 from martynkin/br1
+    
+    Update 4.txt
+
+[33mcommit 79d14dc8ab5c2de091d8ef357b11e5e29d0341b1[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Sep 29 17:51:36 2015 +0300
+
+    Update 4.txt
+
+[33mcommit 1f7ffedbaa0d2de63badee50eb5842a58268d715[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Sep 29 17:51:07 2015 +0300
+
+    Update 3.txt
+
+[33mcommit 86e0793ed542e27fe36803084bb5b703d30c5dc0[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Sep 29 17:49:49 2015 +0300
+
+    Update 5.txt
+
+[33mcommit 8724f4215bdd5bd3bebe1b88df62a17a6dea1ef4[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Sep 29 17:26:07 2015 +0300
+
+    Update 4.txt
+
+[33mcommit da411d686d10579371f807a6553c5d228a145b0e[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Sep 29 17:23:42 2015 +0300
+
+    Update 2.txt
+
+[33mcommit b0369650b11aae79643ce286b69ba653bc73fdf4[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Sep 29 17:22:27 2015 +0300
+
+    Update 6.txt
+
+[33mcommit 1b4f66fc31208e27dffd1e03ace8b65f2bfa26c1[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Sep 29 16:59:57 2015 +0300
+
+    Update 4.txt
+
+[33mcommit a18392f7df5a532b81d21a3bb4c1429c9d529090[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Sep 29 16:53:24 2015 +0300
+
+    Update 2.txt
+
+[33mcommit 9711c1e4641012305d487089b9167e8aceaf0f92[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Sep 29 16:52:34 2015 +0300
+
+    Update 2.txt
+
+[33mcommit 0d9c8c550caa01ae4cc6a57656fa07ebc7c5276f[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Sep 29 16:50:49 2015 +0300
+
+    Update 2.txt
+
+[33mcommit 3846f5fff6d60c230e53457ac88cc260dbfae350[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Sep 29 16:48:47 2015 +0300
+
+    Update 2.txt
+
+[33mcommit 420fbfbbe6a105f00750d96c8ec8aadb8957f3eb[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Sep 29 16:45:43 2015 +0300
+
+    Update 2.txt
+
+[33mcommit feca81d57b9ef38dbc267e5c4adfb5acbbc85098[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Sep 29 16:37:30 2015 +0300
+
+    Update 3.txt
+
+[33mcommit 65bd1acd4c093514f8506e9cceaac828d0c28d59[m
+Merge: d51674e a33fe5c
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Sep 29 16:30:41 2015 +0300
+
+    com
+
+[33mcommit d51674e1ac34fe2a9cb2e0efc27edbabc87f7256[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Sep 29 16:25:06 2015 +0300
+
+    Update 2.txt
+
+[33mcommit a33fe5c29a25b9bb61a7724c288f21b95a682582[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Sep 29 16:23:39 2015 +0300
+
+    Update 4.txt
+
+[33mcommit 1c156582a9d7c8256640283e2bf8f46d11fd9342[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Sep 29 16:22:11 2015 +0300
+
+    Update 6.txt
+
+[33mcommit 6823dc5dc08940b319a01fec5846cde0fe354017[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Sep 29 16:09:11 2015 +0300
+
+    Update 6.txt
+
+[33mcommit 1bc65abd1527ea5698a37c5a067698d32ef9ef17[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Sep 29 16:07:48 2015 +0300
+
+    Update 8.txt
+
+[33mcommit 38701afa4ce0dd8a09ac8d33a12935aed7007207[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Sep 29 16:05:23 2015 +0300
+
+    Update 3.txt
+
+[33mcommit d5692f805f1a02e9391e321d60c6b6590954c968[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Tue Sep 29 15:56:51 2015 +0300
+
+    Update 4.txt
+
+[33mcommit 898af918514234539e66216966455bf19ce7b648[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 17:13:42 2015 +0300
+
+    Update 3.txt
+
+[33mcommit c311c9491714793b134d9d3f77c3eb94fa49c9b9[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 17:11:53 2015 +0300
+
+    Update 2.txt
+
+[33mcommit 4437ffbfa16f282a02a516dce881b8e1470115b6[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 17:10:16 2015 +0300
+
+    Update 4.txt
+    
+    E
+
+[33mcommit a1170730ab415c8b809715e22c0c5dd09fd02252[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 17:08:32 2015 +0300
+
+    Update 3.txt
+
+[33mcommit 9c9f9e65a1527c295e934d14819eb9c83ec62d7f[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 17:06:34 2015 +0300
+
+    Update 2.txt
+
+[33mcommit 586b4cf5e425cd3284ff35318e868eb78b678470[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 16:40:21 2015 +0300
+
+    Update 5.txt
+
+[33mcommit 3d54a6bc81d4b5eea0a91e74c67c738d2205a483[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 16:22:14 2015 +0300
+
+    Update 3.txt
+
+[33mcommit fe2ff5f59cd63df49ba5669fb0ebd40ce8c66e2c[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 16:22:02 2015 +0300
+
+    Update 3.txt
+
+[33mcommit 648244125c4a679a7e3b55bf881bb8e5ac1fad36[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 16:20:41 2015 +0300
+
+    Update 3.txt
+
+[33mcommit d58fd926e99ee0131e0991c0ed36da11c2f85fb3[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 16:18:46 2015 +0300
+
+    Update 2.txt
+
+[33mcommit c76c955e176180e7e4872e3c1c5ce76194a703f6[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 15:56:49 2015 +0300
+
+    Update 8.txt
+    
+    T
+
+[33mcommit 75963c4af3fc5996c989881bb2814fa79c949a73[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 15:55:50 2015 +0300
+
+    Update 2.txt
+    
+    T
+
+[33mcommit 0f72374c19fe87919d01c230ff027fedee302165[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 15:50:42 2015 +0300
+
+    Update 2.txt
+    
+    G
+
+[33mcommit 1d335d0dd16ef15d472bee0d7982083b050c8fff[m
+Merge: 6f4b032 69c02ed
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 15:49:48 2015 +0300
+
+    Merge pull request #59 from martynkin/br1
+    
+    Update 2.txt
+
+[33mcommit 69c02ed632751e629aa1c918eb213331275d2d3b[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 15:45:36 2015 +0300
+
+    Update 2.txt
+    
+    E
+
+[33mcommit 6f4b0322b5006b5134bb80a21d68da70003276aa[m
+Merge: 21bc0a9 bad7e0f
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 15:44:58 2015 +0300
+
+    Merge pull request #58 from martynkin/br1
+    
+    Br1
+
+[33mcommit bad7e0fb9693b39074fb86e02a83bc40a9e95cb5[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 15:44:14 2015 +0300
+
+    Update 2.txt
+    
+    R
+
+[33mcommit 21bc0a9601dd1efba0fde727732b88480639dc50[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 15:43:35 2015 +0300
+
+    Update 8.txt
+    
+    R
+
+[33mcommit 43a2d6b48036275dda13e81a916d5b0d9dfcfc76[m
+Merge: 9670404 d608f2e
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 15:37:39 2015 +0300
+
+    Merge remote-tracking branch 'origin/master' into br1
+
+[33mcommit d608f2e1c5736f981455ce06f10f4868a8347e4c[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 15:36:37 2015 +0300
+
+    Update 6.txt
+
+[33mcommit eaecbd3b6a64364aa1c83a55f48fd87b30f71094[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 15:36:23 2015 +0300
+
+    Update 7.txt
+
+[33mcommit 2d0fb29932b2380af200870dec8eedae1b854c74[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 15:36:08 2015 +0300
+
+    Update 8.txt
+
+[33mcommit 9670404cc83d1c09e8f3cc83d55a545e817da613[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 15:35:42 2015 +0300
+
+    3 files commit
+
+[33mcommit 180c3f540c6b99cc9747f96242e99755bc69f008[m
+Merge: ba5e5a3 6d1fa4a
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 15:31:08 2015 +0300
+
+    Merge pull request #57 from martynkin/br1
+    
+    Br1
+
+[33mcommit 6d1fa4a5b0506545e09e55bcdb5f173831861c37[m
+Merge: 5aac7f4 ba5e5a3
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 15:29:15 2015 +0300
+
+    Merge remote-tracking branch 'origin/master' into br1
+
+[33mcommit ba5e5a3f6bec5667562557b36816b559f5d410c9[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 15:28:51 2015 +0300
+
+    Update 8.txt
+
+[33mcommit 5aac7f444705bdf3bbc19866b36a0c0283f6b4bf[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 15:27:10 2015 +0300
+
+    4.txt commit
+
+[33mcommit 62b410ffe11b0f4cb4397eccb6707e3fb7883d72[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 15:26:46 2015 +0300
+
+    3.txt commit
+
+[33mcommit 37495e5066438f33e4bf06695579d91be42afe74[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 15:26:06 2015 +0300
+
+    2.txt commit
+
+[33mcommit 6c092610c0472574597d3492f925b92b8658222c[m
+Merge: cb403e6 2ec9bde
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 15:24:42 2015 +0300
+
+    Merge pull request #56 from martynkin/br1
+    
+    Br1
+
+[33mcommit 2ec9bde6684da8bfa189eadcb95d122f1e0ea7d6[m
+Merge: f36a934 cb403e6
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 15:11:29 2015 +0300
+
+    Merge remote-tracking branch 'origin/master' into br1
+
+[33mcommit cb403e6bcd6e22048d4ac43aa8907f71e15535ee[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 15:06:34 2015 +0300
+
+    Update 6.txt
+
+[33mcommit f36a93447502752915991d082944ae931bcc950e[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 14:59:32 2015 +0300
+
+    commit 4.txt
+
+[33mcommit c8acb2c2104acc208b2a1d6468c392b373d044b6[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 14:58:51 2015 +0300
+
+    commit 3.txt
+
+[33mcommit 5e77717f859377d9657ee699952dbd3b8e76349f[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 14:58:08 2015 +0300
+
+    commit 2.txt
+
+[33mcommit 13d09fc43d4167bc05b035f13e4ff72242ca1729[m
+Merge: 426d9f1 0c0dd14
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 14:54:50 2015 +0300
+
+    Merge pull request #55 from martynkin/br1
+    
+    comment for ccollab
+
+[33mcommit 0c0dd14d3aac750a6fc021b6385f328ada0737f5[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 14:40:23 2015 +0300
+
+    comment for ccollab
+
+[33mcommit 426d9f19da4f93e61d0a7be1bcbca39b793b9ae2[m
+Merge: 898d9ff 0056a9f
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 14:37:47 2015 +0300
+
+    Merge branch 'br1'
+
+[33mcommit 0056a9f4d7b70ceac799e2c029e38826025429f3[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 13:06:30 2015 +0300
+
+    comment for br1
+
+[33mcommit 193f3c379fef9abed879e9eebc40e1f8462bbe0e[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 12:54:33 2015 +0300
+
+    comment for br1
+
+[33mcommit 898d9ff1944b2521ea56872790f41f83c29c91d3[m
+Merge: 16b5f7b 61430e8
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 12:50:25 2015 +0300
+
+    Merge pull request #54 from martynkin/br3
+    
+    Update 6.txt
+
+[33mcommit 16b5f7b652e89f1e52aef8593c7f1fce7809f866[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 11:41:55 2015 +0300
+
+    Update 3.txt
+
+[33mcommit 28c43e6d152f0ee18351da0b0251afa04ddd9ec1[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 11:41:07 2015 +0300
+
+    Update 2.txt
+
+[33mcommit cc6b4e6e451c0e5dac43a34508e23f00e05f796e[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Mon Sep 28 11:40:17 2015 +0300
+
+    Update 2.txt
+
+[33mcommit 61430e844c5a0139439972715f2ad28de03ce1ba[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 17:50:03 2015 +0300
+
+    Update 6.txt
+
+[33mcommit f828c1bcaf659956b747261b777ef5e45517dc7c[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 17:49:37 2015 +0300
+
+    Update 2.txt
+
+[33mcommit 8d0cda8013de01b205c7b9d53e15ec9c4814ab6f[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 17:31:36 2015 +0300
+
+    Update 4.txt
+
+[33mcommit a73cf298590f549841b82b525e48878c37c051b7[m
+Merge: 22cfb02 abfd871
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 17:31:23 2015 +0300
+
+    Merge pull request #53 from martynkin/br3
+    
+    Update 7.txt
+
+[33mcommit abfd871bfdb9e3a8eb9ea72554647340de1be9b1[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 16:48:17 2015 +0300
+
+    Update 7.txt
+
+[33mcommit 22cfb021b4fa5a2a04bca0a0373c073d9038b686[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 16:47:48 2015 +0300
+
+    Update 3.txt
+
+[33mcommit 3b79dc19299a41a62b2106d6d29768702b5fc762[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 16:46:52 2015 +0300
+
+    Update 3.txt
+
+[33mcommit 76ca5a9b0302be4302ddd0c2a4ea8bb4d958ff80[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 16:46:15 2015 +0300
+
+    Update 2.txt
+
+[33mcommit 3fc3a5b7e3806bbc29a36539f5301ef8026f6431[m
+Merge: 0b71391 aa52ab0
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 16:28:47 2015 +0300
+
+    Merge pull request #52 from martynkin/br3
+    
+    merge1
+
+[33mcommit aa52ab0c113af15269819d7774188d0fb5fc1049[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 16:23:25 2015 +0300
+
+    Update 3.txt
+
+[33mcommit 0b71391fa1a9617f6e79cc530a9bbaea5c11fe8b[m
+Merge: dbbd230 e780ef1
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 16:20:29 2015 +0300
+
+    Merge pull request #51 from martynkin/br3
+    
+    Update 2.txt
+
+[33mcommit e780ef10c860b1f35b413448d3cc5f231b641c8b[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 16:20:11 2015 +0300
+
+    Update 2.txt
+
+[33mcommit dbbd2304a1daecac99c96d294387dbc2ed7f561f[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 16:19:01 2015 +0300
+
+    Update 3.txt
+
+[33mcommit a84c261a5da4f1de1945eaf4d09b1111dfe65434[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 16:18:17 2015 +0300
+
+    Update 7.txt
+
+[33mcommit 7ebaa0bfcbe79339404478af916171a55c222c0a[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 16:17:47 2015 +0300
+
+    Update 3.txt
+
+[33mcommit abf6968306252244e6de30d830c4ae2d9499a471[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 16:17:11 2015 +0300
+
+    Update 2.txt
+
+[33mcommit 56df1b2b5db75c3297fb3ca6128ba59f40cec774[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 16:13:49 2015 +0300
+
+    Update 2.txt
+
+[33mcommit a01d570dd31b45a6f815f48622ecb90c4e59f62b[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 16:12:30 2015 +0300
+
+    Update 3.txt
+
+[33mcommit 50250db3594b08fcfed4beb982757e7224394476[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 16:00:29 2015 +0300
+
+    Update 8.txt
+
+[33mcommit f171a26e37d2dbba0b6ed990aa42de68dad06404[m
+Merge: 7703e72 fd3fee8
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 15:58:14 2015 +0300
+
+    Merge pull request #50 from martynkin/br3
+    
+    Update 5.txt
+
+[33mcommit fd3fee866c0b6d51e0e98fa461979c35f7ec70b9[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 15:56:53 2015 +0300
+
+    Update 5.txt
+
+[33mcommit 7703e7211d4ea58df45ea3d9bff6c9cbf976b1e6[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 15:55:37 2015 +0300
+
+    Update 7.txt
+
+[33mcommit 9609c34874bf05f5fe40f8ae8988cd563cfde94d[m
+Merge: 61f808c a4eda32
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 15:50:47 2015 +0300
+
+    Merge pull request #49 from martynkin/br3
+    
+    Update 2.txt
+
+[33mcommit a4eda32ae8a9047d52c75aba47790ab26581e063[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 15:45:52 2015 +0300
+
+    Update 2.txt
+
+[33mcommit 61f808c8860e6ca7f7fdb2ae58acf894147dbc93[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 15:44:15 2015 +0300
+
+    Update 7.txt
+
+[33mcommit d7858e265c7cb8907e775b9533f5ffbf99148e84[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 15:41:41 2015 +0300
+
+    Update 8.txt
+
+[33mcommit b3fb4d868b8969dd4019fce2806f2f17903c17a4[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 15:32:30 2015 +0300
+
+    Update 7.txt
+
+[33mcommit 884b563a2ba01de9e721ec86bfee431053c6ddb9[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 15:26:18 2015 +0300
+
+    Update 7.txt
+
+[33mcommit 80582091a9154a2cba9fabdac95c05432c921b87[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 15:25:31 2015 +0300
+
+    Update 4.txt
+
+[33mcommit d6128bec0915c6a1c2cd7b89b927320bc7508797[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 15:00:39 2015 +0300
+
+    Update 4.txt
+
+[33mcommit bb3680705da2fc3d8661dca1e81fabe478a9c37d[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 14:58:07 2015 +0300
+
+    Update 3.txt
+
+[33mcommit 68fc83f6f2aeb137758ef7391c78c97b6e41510f[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 14:57:56 2015 +0300
+
+    Update 2.txt
+
+[33mcommit 2bae3321641d3f50051d30930c217bed0d2c3012[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 14:56:58 2015 +0300
+
+    Update 7.txt
+
+[33mcommit d1ffac7cbc6d897a28bf06fe3bcf5e17b11bfa79[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 14:56:11 2015 +0300
+
+    Update 8.txt
+
+[33mcommit daa53880f63c8e6f6b2cb96e51f3bb017083ee93[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 14:55:11 2015 +0300
+
+    Update 8.txt
+
+[33mcommit b762821097df59cd52e151c9173f84b1f7aea2d1[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 14:54:45 2015 +0300
+
+    Update 2.txt
+
+[33mcommit 82138239b0b58cbff3ff24aa84213bee43e2f01e[m
+Merge: 556cc0f 8b14794
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 12:25:58 2015 +0300
+
+    Merge pull request #47 from martynkin/br3
+    
+    Update 6.txt
+
+[33mcommit 8b14794217d9c1d3d5e191f7ec1367d399e8bd81[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 12:25:41 2015 +0300
+
+    Update 6.txt
+
+[33mcommit 556cc0f98686230d2be7d389e39fafb389331c26[m
+Merge: ab6fb94 7759c22
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 12:13:48 2015 +0300
+
+    Merge pull request #46 from martynkin/br3
+    
+    Update 2.txt
+
+[33mcommit 7759c22796b46c3dd48434db4f7860439bd5f7bc[m
+Author: martynkin <Alexey.Martynkin@smartbear.com>
+Date:   Fri Sep 25 12:13:30
